@@ -1,4 +1,4 @@
-### Copy required file sample.war to minio docker container at path : /data/AMK/
+## Copy required file sample.war to minikube docker container at path : /data/AMK/
 ## 
 ## step 1: ## create pv
 
