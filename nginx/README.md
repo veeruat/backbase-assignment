@@ -1,4 +1,4 @@
-### Copy required file index.html to minio docker container at path : /data/AMK/
+### Copy required file index.html to minikube docker container at path : /data/AMK/
 ## 
 ## step 1: ## create pv
 
